@@ -55,7 +55,7 @@ Welcome to **Kingdoms**, a turn-based game where you manage your territory, recr
 - Enemy Attacks: At the end of each turn. Chance that an enemy might attack.
 
 9. **Goal**
-Expand your territory, grow your army, increase wealth and prestige and conquer yout enemy lands to dominate the game. 
+Expand your territory, grow your army, increase wealth and prestige and conquer your enemy lands to dominate the game. 
 
 **Credits**
 This game was developed in Java by **Rhys Mckiernan**
